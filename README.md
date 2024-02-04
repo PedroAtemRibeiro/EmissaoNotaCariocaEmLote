@@ -28,9 +28,9 @@ Execute a solução, que automaticamente gerará o arquivo TXT, realizará o env
 ### Relatórios e Registros: 
 A solução mantém registros detalhados de todas as transações, facilitando a geração de relatórios e o acompanhamento do status das notas fiscais.
 
-## Requisitos
+# Requisitos
 Microsoft Excel com suporte a VBA.
-## Benefícios
+# Benefícios
 Economia de tempo na emissão de notas fiscais em lote.
 Redução de erros humanos no processo.
 Agilidade na conciliação fiscal com a recepção instantânea das notas emitidas.
