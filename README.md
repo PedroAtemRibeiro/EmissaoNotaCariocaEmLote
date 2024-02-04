@@ -9,11 +9,8 @@ Funcionalidades Principais
 ### Geração de Arquivo TXT:
 A solução gera automaticamente um arquivo TXT com as informações das notas fiscais a serem enviadas para o site da prefeitura. Esse arquivo segue o formato exigido pelo sistema da prefeitura, facilitando o processo de integração.
 
-### Envio Automático:
-Após a geração do arquivo TXT, a solução realiza o envio automático das notas fiscais para o site da prefeitura. Esse processo é executado em segundos, garantindo agilidade e eficiência no cumprimento das obrigações fiscais.
-
 ### Recepção Instantânea: 
-Através do envio do arquivo é possivel receber, em questão de segundos, todas as notas fiscais emitidas pelo site da prefeitura. Proporcionando controle em tempo real das informações e facilitando a conciliação fiscal.
+Através do envio do arquivo é possivel receber, em questão de segundos, todas as notas fiscais emitidas pelo site da prefeitura. A planilha proporciona controle em tempo real das informações e facilita a conciliação fiscal.
 
 # Como Utilizar
 ### Configuração Inicial: 
