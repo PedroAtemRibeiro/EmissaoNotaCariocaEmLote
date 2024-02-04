@@ -1,5 +1,5 @@
  
-# Automatização de Emissão de Notas (NOTA CARIOCA) Fiscais em Lote  - Solução VBA
+# Automação de Emissão de Notas (NOTA CARIOCA) Fiscais em Lote  - Solução VBA
 # Descrição do Projeto
 Este projeto apresenta uma solução eficiente e automatizada para a emissão de notas fiscais em lote, utilizando a linguagem VBA (Visual Basic for Applications). A solução foi especialmente desenvolvida para simplificar o processo de emissão de notas fiscais no site da prefeitura, proporcionando uma economia significativa de tempo e esforço.
 
