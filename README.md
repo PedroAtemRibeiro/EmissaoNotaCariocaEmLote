@@ -19,7 +19,7 @@ Antes de utilizar a solução, é necessário configurar as informações básic
 ### Alimentação de Dados:
 Insira os dados das notas fiscais a serem emitidas em um formato pré-determinado. A solução pode processar grandes volumes de dados de forma eficiente.
 
-### Execução Automática:
+### Processamento de Dados Automático:
 Execute a solução, que automaticamente gerará o arquivo TXT, realizará o envio para o site da prefeitura e receberá as notas fiscais emitidas.
 
 ### Relatórios e Registros: 
