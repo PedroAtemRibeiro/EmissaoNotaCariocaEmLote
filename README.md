@@ -3,8 +3,9 @@
 # Descrição do Projeto
 Este projeto apresenta uma solução eficiente e automatizada para a emissão de notas fiscais em lote, utilizando a linguagem VBA (Visual Basic for Applications). A solução foi especialmente desenvolvida para simplificar o processo de emissão de notas fiscais no site da prefeitura, proporcionando uma economia significativa de tempo e esforço.
 
-Funcionalidades Principais
-##Emissão em Lote:## A solução permite a emissão de notas fiscais em grande quantidade de forma rápida e precisa. Basta fornecer os dados necessários em um formato estruturado, e o sistema se encarrega do restante.
+# Funcionalidades Principais
+### Emissão em Lote:
+A solução permite a emissão de notas fiscais em grande quantidade de forma rápida e precisa. Basta fornecer os dados necessários em um formato estruturado, e o sistema se encarrega do restante.
 
 ### Geração de Arquivo TXT:
 A solução gera automaticamente um arquivo TXT com as informações das notas fiscais a serem enviadas para o site da prefeitura. Esse arquivo segue o formato exigido pelo sistema da prefeitura, facilitando o processo de integração.
