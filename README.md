@@ -21,10 +21,8 @@ Antes de utilizar a solução, é necessário configurar as informações básic
 Insira os dados das notas fiscais a serem emitidas em um formato pré-determinado. A solução pode processar grandes volumes de dados de forma eficiente.
 
 ### Processamento de Dados Automático:
-Execute a solução, que automaticamente gerará o arquivo TXT, realizará o envio para o site da prefeitura e receberá as notas fiscais emitidas.
+Execute a solução, e automaticamente transformará os dados em um arquivo enviável, para emissão de notas em lote no site da Prefeitura.
 
-### Relatórios e Registros: 
-A solução mantém registros detalhados de todas as transações, facilitando a geração de relatórios e o acompanhamento do status das notas fiscais.
 
 # Requisitos
 Microsoft Excel com suporte a VBA.
